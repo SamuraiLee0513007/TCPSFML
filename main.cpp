@@ -1,7 +1,5 @@
 #include <iostream>
-#include <SFML/graphics.hpp>
 #include <string>
-#include <SFML/Audio.hpp>
 #include <SFML/Network.hpp>
 using namespace sf;
 using namespace std;
